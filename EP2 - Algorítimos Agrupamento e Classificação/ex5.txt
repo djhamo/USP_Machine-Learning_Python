@@ -1,0 +1,17 @@
+Questão 5) Assinale as alternativas com V ou F para Verdadeiro ou Falso respectivamente. Atente para o
+fato que uma questão errada anula uma certa. Em caso de dúvidas, deixe em branco.
+(V) Quando ajustamos um modelo linear, geralmente supomos que os erros tem distribuição normal e
+são independentes e identicamente distribuídos (i.i.d.).
+(V) Quando ajustamos um modelo de regressão, podemos utilizar os valores preditos e os resíduos do
+modelo para avaliar se o modelo se adequa bem aos dados.
+(V) O coeficiente de determinação (𝑟 2 ) indica, em termos percentuais, quanto da variabilidade da
+variável resposta é explicada pelas covariáveis do modelo.
+(F) Os modelos de regressão não são afetados por observações atípicas (outliers) e valores faltantes.
+(V) Considerando um modelo de regressão simples, temos que o coeficiente associado à covariável
+representa o grau de inclinação da reta.
+(V) Para efetuar regressão com o algoritmo KNN, pode-se fazer uma votação simples dos valores dos 𝑘
+vizinhos encontrados.
+(V) Para melhor desempenho da árvore de regressão, pode-se utilizar regressões lineares em suas folhas
+para previsão do valor final.
+(V*) No algoritmo Random Forest para regressão, o valor predito é obtido pela média dos valores
+encontrados em cada árvore.
